@@ -4,5 +4,9 @@
         "type": "api-key",
         "disabled": true
     },
-    "anon-user": {}
+    "anon-user": {
+        "name": "anon-user",
+        "type": "anon-user",
+        "disabled": false  
+    }
 }
