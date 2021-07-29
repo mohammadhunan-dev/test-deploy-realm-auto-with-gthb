@@ -1,7 +1,6 @@
 {
-    "app_id": "test-deploy-realm-auto-with-gthb-hvmwg",
     "config_version": 20210101,
-    "name": "test-deploy-realm-auto-with-gthb",
+    "name": "tasktracker",
     "location": "US-VA",
-    "deployment_model": "LOCAL"
+    "deployment_model": "GLOBAL"
 }
